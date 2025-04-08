@@ -11,7 +11,7 @@ A aplicação tem como objetivo permitir que **mentores administrem seus mentora
 
 - **Python 3**
 - **Django**
-- **HTML + CSS**
+- **HTML + CSS + HTMX**
 
 ---
 
